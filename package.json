@@ -1,6 +1,6 @@
 {
   "name": "@jneander/commitlint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal commitlint configuration",
   "license": "MIT",
   "author": "Jeremy Neander <jeremy.neander@gmail.com>",
