@@ -4,7 +4,7 @@
   "description": "Personal commitlint configuration",
   "license": "MIT",
   "author": "Jeremy Neander <jeremy.neander@gmail.com>",
-  "main": "lib/commitlint-config.js",
+  "main": "./commitlint.config.js",
   "files": [
     "./commitlint.config.js",
     "CHANGELOG.md"
