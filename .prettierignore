@@ -1,0 +1,8 @@
+# Test Coverage
+coverage/
+*.lcov
+test-results/
+
+# Compiled output directories
+build/
+dist/
